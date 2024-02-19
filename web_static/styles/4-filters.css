@@ -1,0 +1,31 @@
+/*filters.css*/
+
+/* styling filters */
+
+.filters {
+	background-color: #FFF;
+	height: 70px;
+	width: 100%;
+	border: 1px #DDD;
+	border-radius: 4px;
+}
+
+/* button styling */
+
+.filters button {
+	font-size: 18px;
+	background-color: #AA5A5F;
+	text-color: #FFF;
+	height: 48px;
+	width: 20%;
+	border: none;
+	border-radius: 4px;
+	float: right;
+	margin: 12px 30px;
+}
+
+/* button opacity styling*/
+
+.filters button:hover {
+	background-color: rgba(255, 90, 95, .9);
+}
